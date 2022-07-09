@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ADDRESSBOOK>
+	 
+	<PERSON>
+		   
+		<LASTNAME>McCartney</LASTNAME>
+		   
+		<FIRSTNAME>Paul</FIRSTNAME>
+
+		<COMPANY>The Beatles</COMPANY>
+
+		<EMAIL>paul@beatles.com</EMAIL>
+
+	</PERSON>
+
+	<PERSON>
+
+		<LASTNAME>Monster</LASTNAME>
+		 
+		<FIRSTNAME>Rap</FIRSTNAME>
+		   
+		<COMPANY>BTS</COMPANY>
+		   
+		<EMAIL>rapmon@BTS.com</EMAIL>
+
+	</PERSON>
+
+</ADDRESSBOOK>

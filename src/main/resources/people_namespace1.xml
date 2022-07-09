@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <people xmlns:xsi="http://www/w3/org/2000/10/XMLSchme-instance" xsi:noNamespaceSchemaLocation="people.xsd"> -->
+<people xmlns:xsi="http://www/w3/org/2000/10/XMLSchme-instance"
+	xsi:scehmaLocation="http://www.mark.com/people.xsd">
+	<husband employed="YES">
+		<name>Mark</name>
+		<age>45</age>
+		<wife>
+			<wname>Janet</wname>
+			<age>29</age>
+		</wife>
+	</husband>
+
+	<husband employed="NO">
+		<name>Matt</name>
+		<age>12</age>
+		<wife>
+			<wname>Annie</wname>
+			<age>43</age>
+		</wife>
+	</husband>
+</people>

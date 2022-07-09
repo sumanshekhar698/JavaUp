@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users>
+    	
+    <User>
+        		
+        <id>1</id>
+        		
+        <firstName>RAMESH</firstName>
+        		
+        <lastName>Fadatare</lastName>
+        		
+        <age>28</age>
+        		
+	
+        <salary>10000</salary>
+    </User>
+    	
+    <User>
+        		
+        <id>2</id>
+        		
+        <firstName>JOHN</firstName>
+        		
+        <lastName>Cena</lastName>
+        		
+        <age>45</age>
+        		
+	
+        <salary>10000</salary>
+    </User>
+    	
+    <User>
+        		
+        <id>3</id>
+        		
+        <firstName>TOM</firstName>
+        		
+        <lastName>Cruise</lastName>
+        		
+        <age>40</age>
+        		
+	
+        <salary>10000</salary>
+    </User>
+    
+</Users>
