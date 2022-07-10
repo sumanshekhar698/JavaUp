@@ -2,7 +2,6 @@ package com.sumanshekhar.java.core.oops.inheritance.final_keyword;
 
 import java.sql.Date;
 
-import com.geekster.oops.inheritance.CricketPlayer;
 
 public class FinalExamplesWithMethodsDriver {
 

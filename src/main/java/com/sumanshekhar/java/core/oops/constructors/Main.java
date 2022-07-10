@@ -1,6 +1,5 @@
 package com.sumanshekhar.java.core.oops.constructors;
 
-import com.geekster.oops.abstract_classes.Employee;
 
 public class Main {
 

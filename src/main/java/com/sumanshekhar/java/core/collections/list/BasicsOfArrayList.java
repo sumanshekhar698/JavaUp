@@ -2,7 +2,6 @@ package com.sumanshekhar.java.core.collections.list;
 
 import java.util.ArrayList;
 
-import com.geekster.oops.interfaces.marker_interfaces.Student;
 
 public class BasicsOfArrayList {
 

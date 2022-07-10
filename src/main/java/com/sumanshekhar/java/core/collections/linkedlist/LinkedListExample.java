@@ -19,6 +19,10 @@ public class LinkedListExample {
 		integerLinkedList.add(76);
 		integerLinkedList.add(68);
 		integerLinkedList.add(2, 10);
+
+
+//		System.out.println(integerLinkedList.get(20));//java.lang.IndexOutOfBoundsException
+
 		System.out.println(integerLinkedList.get(0));
 		integerLinkedList.remove();
 		System.out.println(integerLinkedList);
