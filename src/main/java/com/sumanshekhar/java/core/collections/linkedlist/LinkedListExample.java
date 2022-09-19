@@ -74,5 +74,20 @@ public class LinkedListExample {
 		System.out.println();
 
 //	-1(I) [5, 6, 10, 66, 76, 68]
+
+		LinkedList<String> integerLinkedList2 = new LinkedList<>();
+		integerLinkedList2.offer("Hello!");
+		integerLinkedList2.offer("Hi!");
+		integerLinkedList2.offer("GoodMorning!");
+		integerLinkedList2.pop();
+		integerLinkedList2.peek();
+		while (integerLinkedList2.peek()!=null)
+			System.out.print(integerLinkedList2.pop()+" ");
+
+
+
+
+
+
 	}
 }
