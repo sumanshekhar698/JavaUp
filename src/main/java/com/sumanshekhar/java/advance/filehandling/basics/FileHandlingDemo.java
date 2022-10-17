@@ -10,6 +10,7 @@ public class FileHandlingDemo {
 
 		String path = "C:sample.txt";
 
+
 		File file = new File(path);
 //		FileInputStream
 //		Scanner
