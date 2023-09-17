@@ -3,7 +3,7 @@ package com.sumanshekhar.java.advance.multithreading.multithreading_0;
 public class MainThread {
     public static void main(String[] args) throws InterruptedException {
 
-//        when a java program starts, Usually main thread is one which begins its execution
+//        When a java program starts, Usually main thread is one which begins its execution
 //        If that's  the case, all the child thread will spawn from the main thread
 //        Often it should be the last thread to finish execution
 
