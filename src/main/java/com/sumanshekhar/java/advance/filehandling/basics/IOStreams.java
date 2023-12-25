@@ -13,11 +13,10 @@ public class IOStreams {
 
         for (int i = 0; i < 2; i++) {
             int res;
-            while ((res = bais.read())!=-1){
-                if (i==0)
-                    System.out.println(Character.toUpperCase((char)res));
+            while ((res = bais.read()) != -1) {
+                if (i == 0)
+                    System.out.println(Character.toUpperCase((char) res));
                 baos.write(res);
-
             }
             System.out.println(baos);
         }
