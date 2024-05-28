@@ -7,7 +7,7 @@ enum SimpleSuit {HEART, SPADE, DIAMOND, CLUB}
 
 enum Suit {
     HEARTS(1), SPADES(3), DIAMONDS(2), CLUBS(4);
-
+//H D S C
     private final int value;
 
     private Suit(int value) {
@@ -85,8 +85,8 @@ class Deck {
 
     public Deck() {
         cards = new ArrayList<>();
-        for (Suit suit : Suit.values()) {
-            for (Rank rank : Rank.values()) {
+        for (Suit suit : Suit.values()) {//4
+            for (Rank rank : Rank.values()) {//13
                 cards.add(new Card(suit, rank));
             }
         }

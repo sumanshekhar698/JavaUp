@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cps:Cnote xmlns:cps="http://www.example.net/ns/cps/entry">
+	<cps:MsgCount>99</cps:MsgCount>
+	<cps:Payload>
+		<cps:pings>
+			<doc:record
+				xmlns:doc="http://www.example.net/ns/doc/entry">
+				<doc:address>
+					<doc:head>
+						<doc:msg>CHANGE</doc:msg>
+					</doc:head>
+				</doc:address>
+			</doc:record>
+		</cps:pings>
+	</cps:Payload>
+</cps:Cnote>
