@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.questions.restapi;
+package com.codecounty.java.advance.questions.restapi;
 
 import org.apache.hc.client5.http.classic.HttpClient;
 import org.apache.hc.client5.http.classic.methods.HttpGet;

@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.questions.restapi;
+package com.codecounty.java.advance.questions.restapi;
 
 import lombok.extern.java.Log;
 import org.apache.hc.client5.http.classic.HttpClient;
@@ -11,6 +11,7 @@ import org.apache.hc.core5.http.ClassicHttpResponse;
 import org.apache.hc.core5.http.HttpStatus;
 
 import java.io.IOException;
+import java.util.logging.Logger;
 
 
 
@@ -21,6 +22,7 @@ import java.io.IOException;
 
 @Log
 public class HttpGetRequestMethodExample {
+	static Logger log = Logger.getLogger(HttpGetRequestMethodExample.class.getName());
 
     public static void main(String...args) throws IOException {
 //        HttpClient httpClient = HttpClientBuilder.create().build();

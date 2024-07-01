@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.basics.racecondition;
+package com.codecounty.java.advance.multithreading.basics.racecondition;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

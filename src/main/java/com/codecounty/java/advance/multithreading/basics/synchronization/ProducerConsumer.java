@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.basics.synchronization;
+package com.codecounty.java.advance.multithreading.basics.synchronization;
 
 public class ProducerConsumer {
     private static final Object lock = new Object();

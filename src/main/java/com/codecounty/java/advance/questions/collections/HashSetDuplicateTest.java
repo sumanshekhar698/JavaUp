@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.questions.collections;
+package com.codecounty.java.advance.questions.collections;
 //https://docs.oracle.com/javase/7/docs/api/java/util/Set.html
 import java.util.HashSet;
 import java.util.Set;

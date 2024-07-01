@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.encryption.encryption_0;
+package com.codecounty.java.advance.encryption.encryption_0;
 
 import org.apache.commons.codec.binary.Base64;
 

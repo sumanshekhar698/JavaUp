@@ -1,1 +1,1 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_1;
+package com.codecounty.java.advance.multithreading.multithreading_1;

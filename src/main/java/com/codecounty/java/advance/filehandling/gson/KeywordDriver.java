@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.filehandling.gson;
+package com.codecounty.java.advance.filehandling.gson;
 
 import com.google.gson.Gson;
 

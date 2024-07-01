@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.filehandling.xml;
+package com.codecounty.java.advance.filehandling.xml;
 
 public class XMLParsing {
 

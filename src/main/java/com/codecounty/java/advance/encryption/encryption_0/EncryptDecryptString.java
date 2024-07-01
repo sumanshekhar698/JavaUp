@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.encryption.encryption_0;
+package com.codecounty.java.advance.encryption.encryption_0;
 
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;

@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_0;
+package com.codecounty.java.advance.multithreading.multithreading_0;
 
 public class MainThread {
     public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.questions.immutability;
+package com.codecounty.java.advance.questions.immutability;
 
 import java.util.ArrayList;
 import java.util.List;

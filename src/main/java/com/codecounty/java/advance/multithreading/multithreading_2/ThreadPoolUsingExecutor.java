@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_2;
+package com.codecounty.java.advance.multithreading.multithreading_2;
 
 // Java program to illustrate ThreadPool
 import java.text.SimpleDateFormat;

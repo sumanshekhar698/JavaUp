@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.filehandling.xml;
+package com.codecounty.java.advance.filehandling.xml;
 
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;

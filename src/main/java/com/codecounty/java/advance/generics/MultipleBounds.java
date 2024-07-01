@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.generics;
+package com.codecounty.java.advance.generics;
 
 public class MultipleBounds<T extends X & A & B & C> {//XX is a class and rest are interfaces
     //A type variable with multiple bounds is a subtype of all the types listed in the bound.

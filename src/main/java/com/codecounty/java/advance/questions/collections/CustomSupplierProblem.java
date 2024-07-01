@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.questions.collections;
+package com.codecounty.java.advance.questions.collections;
 
 import java.util.ArrayList;
 import java.util.List;

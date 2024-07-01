@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_3.flight_demo;
+package com.codecounty.java.advance.multithreading.multithreading_3.flight_demo;
 
 import java.util.List;
 

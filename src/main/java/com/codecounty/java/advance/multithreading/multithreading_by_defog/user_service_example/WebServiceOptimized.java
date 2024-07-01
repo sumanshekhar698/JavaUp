@@ -1,6 +1,6 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_by_defog.user_service_example;
+package com.codecounty.java.advance.multithreading.multithreading_by_defog.user_service_example;
 
-import com.sumanshekhar.java.advance.multithreading.multithreading_by_defog.parallelism.User;
+import com.codecounty.java.advance.multithreading.multithreading_by_defog.parallelism.User;
 
 public class WebServiceOptimized {
 

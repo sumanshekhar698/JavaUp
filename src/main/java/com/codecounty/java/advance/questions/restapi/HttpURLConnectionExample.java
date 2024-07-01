@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.questions.restapi;
+package com.codecounty.java.advance.questions.restapi;
 
 import java.io.BufferedReader;
 import java.io.IOException;

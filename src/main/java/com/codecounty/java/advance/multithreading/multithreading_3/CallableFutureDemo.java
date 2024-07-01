@@ -1,11 +1,17 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_3;
-
-import com.sumanshekhar.java.advance.filehandling.gson.KeywordAnalyserImplementation;
-import com.sumanshekhar.java.advance.filehandling.gson.KeywordAnalyzerInterface;
-import com.sumanshekhar.java.advance.filehandling.gson.KeywordAndFrequency;
+package com.codecounty.java.advance.multithreading.multithreading_3;
 
 import java.util.List;
-import java.util.concurrent.*;
+import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
+import java.util.concurrent.TimeUnit;
+import java.util.concurrent.TimeoutException;
+
+import com.codecounty.java.advance.filehandling.gson.KeywordAnalyserImplementation;
+import com.codecounty.java.advance.filehandling.gson.KeywordAnalyzerInterface;
+import com.codecounty.java.advance.filehandling.gson.KeywordAndFrequency;
 
 
 class MyTask2 implements Callable<List<KeywordAndFrequency>> {// Callable can return something which the Parent thread

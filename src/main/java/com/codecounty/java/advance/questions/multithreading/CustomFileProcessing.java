@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.questions.multithreading;
+package com.codecounty.java.advance.questions.multithreading;
 
 import java.io.File;
 import java.util.HashMap;

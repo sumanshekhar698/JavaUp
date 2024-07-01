@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_1;
+package com.codecounty.java.advance.multithreading.multithreading_1;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

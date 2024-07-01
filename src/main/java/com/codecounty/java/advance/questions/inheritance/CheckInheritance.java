@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.questions.inheritance;
+package com.codecounty.java.advance.questions.inheritance;
 
 
 /*Explanation:
@@ -38,6 +38,6 @@ public class CheckInheritance {
 class Child extends CheckInheritance {
 
     public void test(Integer i) {
-        System.out.println("Inside child");//✔️
+        System.out.println("Inside child");//
     }
 }

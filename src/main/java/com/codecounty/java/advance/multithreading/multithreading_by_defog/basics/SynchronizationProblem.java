@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_by_defog.basics;
+package com.codecounty.java.advance.multithreading.multithreading_by_defog.basics;
 
 class SynchronizationProblem {
 

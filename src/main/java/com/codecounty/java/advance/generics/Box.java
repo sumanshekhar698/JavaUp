@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.generics;
+package com.codecounty.java.advance.generics;
 
 //A generic type is a generic class or interface that is parameterized over types. The following Box class will be modified to demonstrate the concept.
 

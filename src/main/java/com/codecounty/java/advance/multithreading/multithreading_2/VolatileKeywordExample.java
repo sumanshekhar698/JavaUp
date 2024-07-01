@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_2;
+package com.codecounty.java.advance.multithreading.multithreading_2;
 
 public class VolatileKeywordExample {
 //    private static  boolean sayHello = false;

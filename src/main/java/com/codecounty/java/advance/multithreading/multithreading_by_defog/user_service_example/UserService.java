@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_by_defog.user_service_example;
+package com.codecounty.java.advance.multithreading.multithreading_by_defog.user_service_example;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

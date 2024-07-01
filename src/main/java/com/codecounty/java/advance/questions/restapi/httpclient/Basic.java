@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.questions.restapi.httpclient;
+package com.codecounty.java.advance.questions.restapi.httpclient;
 
 import java.io.IOException;
 import java.net.URI;

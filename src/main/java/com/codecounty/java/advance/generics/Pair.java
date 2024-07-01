@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.generics;
+package com.codecounty.java.advance.generics;
 
 //a generic class can have multiple type parameters.
 public interface Pair<K, V> {

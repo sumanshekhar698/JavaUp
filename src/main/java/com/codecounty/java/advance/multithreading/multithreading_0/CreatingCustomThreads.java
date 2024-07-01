@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_0;
+package com.codecounty.java.advance.multithreading.multithreading_0;
 
 class CustomThread_1 implements Runnable {
 

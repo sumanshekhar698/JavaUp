@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_by_defog.concurrency;
+package com.codecounty.java.advance.multithreading.multithreading_by_defog.concurrency;
 
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.Lock;

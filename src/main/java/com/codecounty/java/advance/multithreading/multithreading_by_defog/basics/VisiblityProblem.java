@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_by_defog.basics;
+package com.codecounty.java.advance.multithreading.multithreading_by_defog.basics;
 
 /*the volatile keyword is not foolproof. It can help to prevent visibility problems in some cases, but it is not a guarantee. There are still some situations where the changes made to a volatile variable may not be visible to other threads immediately.
 

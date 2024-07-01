@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.encryption.encryption_1;
+package com.codecounty.java.advance.encryption.encryption_1;
 
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.util.ClassUtils;
@@ -19,7 +19,7 @@ public class EncryptUtil {
 		byte[] encrypt = null;
 		try {
 //			loadProperty();
-			encrypt = EncryptUtil.encrypt(input, "XXXsuk", "AES", "AS/CBC/PKCS5Padding");
+			encrypt = EncryptUtil.encrypt(input, "XXXsud", "AES", "AS/CBC/PKCS5Padding");
 			ResourceUtils.useCachesIfNecessary(null);
 			ClassUtils.getDefaultClassLoader();
 		} catch (Exception e) {
@@ -100,6 +100,10 @@ public class EncryptUtil {
 		empty.replaceAll("\\x15", "");
 		return null;
 
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(EncryptUtil.encryptString("hey"));
 	}
 
 }

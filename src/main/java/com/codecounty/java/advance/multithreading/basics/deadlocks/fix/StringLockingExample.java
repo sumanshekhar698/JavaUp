@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.basics.deadlocks.fix;
+package com.codecounty.java.advance.multithreading.basics.deadlocks.fix;
 
 import java.util.concurrent.locks.ReentrantLock;
 

@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.encryption.encryption_1;
+package com.codecounty.java.advance.encryption.encryption_1;
 
 import java.util.ArrayList;
 import java.util.Random;

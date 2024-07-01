@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.filehandling.serialization;
+package com.codecounty.java.advance.filehandling.serialization;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

@@ -29,7 +29,7 @@ public class PrimitiveDataTypes {
 
 //		***************** character *****************
 		char g='d';int x=g;System.out.println(x);// UTF 8
-		char rupee='₹';// if added UTF character the, java file should also be encoded in character UTF
+		char rupee='r';// if added UTF character the, java file should also be encoded in character UTF
 		x=rupee;// (implicit type casting) char to rupee
 		System.out.println(x);int m=c;char exp=(char)m;// explicit type casting [int to char]
 		System.out.println(exp);

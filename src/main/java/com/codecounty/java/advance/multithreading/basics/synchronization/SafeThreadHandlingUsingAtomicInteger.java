@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.basics.synchronization;
+package com.codecounty.java.advance.multithreading.basics.synchronization;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

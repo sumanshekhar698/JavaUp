@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.generics;
+package com.codecounty.java.advance.generics;
 
 public class BoundedTypeParameters<T> {
 

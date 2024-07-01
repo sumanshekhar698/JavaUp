@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.questions.immutability;
+package com.codecounty.java.advance.questions.immutability;
 
 import java.util.List;
 import java.util.stream.Collectors;

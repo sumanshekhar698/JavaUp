@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.basics.racecondition;
+package com.codecounty.java.advance.multithreading.basics.racecondition;
 
 /*
 A race condition in Java occurs when two or more threads try to access and modify the same shared data concurrently, and the outcome of the program depends on the exact timing or order of their execution. Imagine two runners in a race, constantly checking and updating a shared stopwatch. The final time recorded depends on who reaches the stopwatch last, making the outcome unpredictable and unreliable.

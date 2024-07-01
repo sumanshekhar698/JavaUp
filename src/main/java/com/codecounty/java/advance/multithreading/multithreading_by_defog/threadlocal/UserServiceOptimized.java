@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_by_defog.threadlocal;
+package com.codecounty.java.advance.multithreading.multithreading_by_defog.threadlocal;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

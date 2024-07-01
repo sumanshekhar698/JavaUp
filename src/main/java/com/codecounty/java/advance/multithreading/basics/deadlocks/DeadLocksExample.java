@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.basics.deadlocks;
+package com.codecounty.java.advance.multithreading.basics.deadlocks;
 /*1. Class and Resources:
 
 The code defines a class named TestDeadlockExample1 with a main method.

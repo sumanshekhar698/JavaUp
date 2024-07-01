@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.basics;
+package com.codecounty.java.advance.multithreading.basics;
 
 import java.util.HashMap;
 

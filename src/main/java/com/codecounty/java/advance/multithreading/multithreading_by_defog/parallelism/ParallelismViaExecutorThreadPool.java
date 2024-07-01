@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_by_defog.parallelism;
+package com.codecounty.java.advance.multithreading.multithreading_by_defog.parallelism;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

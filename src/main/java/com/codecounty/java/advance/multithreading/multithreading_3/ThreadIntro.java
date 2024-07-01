@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_3;
+package com.codecounty.java.advance.multithreading.multithreading_3;
 
 class MyThread extends Thread {
 //	Thread is  a  kind of worker which will do the task, It represents both work and the worker

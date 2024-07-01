@@ -1,4 +1,4 @@
-package com.sumanshekhar.java.advance.multithreading.multithreading_by_defog.parallelism;
+package com.codecounty.java.advance.multithreading.multithreading_by_defog.parallelism;
 
 public class ParallelismViaCustomThreads {
 
