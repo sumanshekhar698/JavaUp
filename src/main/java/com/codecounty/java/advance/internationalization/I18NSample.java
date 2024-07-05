@@ -26,8 +26,8 @@ public class I18NSample {
         Locale currentLocale;
         ResourceBundle messages;
 
-//        currentLocale = new Locale(language, country);
-        currentLocale = Locale.of(language, country);
+        currentLocale = new Locale(language, country);
+//        currentLocale = Locale.of(language, country); // JDK 19 onwards
 
         messages = ResourceBundle.getBundle("MessagesBundle", currentLocale);
         System.out.println(messages.getString("greetings"));
