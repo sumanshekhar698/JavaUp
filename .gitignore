@@ -165,3 +165,5 @@ gradle-app.setting
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,gradle
 /target/
+/.apt_generated/
+/.apt_generated_tests/
