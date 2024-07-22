@@ -41,8 +41,8 @@ public class _6ThreadPoolExecutorSeviceShutDown {
 		// method returned, Still some task may be running
  
 		try {
-			boolean ops = executorService.awaitTermination(3000L, TimeUnit.MILLISECONDS);/// it blocks the therad adter
-																							/// shutDownNow for the
+			boolean ops = executorService.awaitTermination(3000L, TimeUnit.MILLISECONDS);/// it blocks the thread after
+																							/// shutDownNow() for the
 																							/// given time for the last
 																							/// bunch of task to be
 																							/// completed

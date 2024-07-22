@@ -1,0 +1,28 @@
+Multi Threading:
+
+Your CPU having 8 cores and 16 threads indicates a technology called Hyper-Threading (Intel) or Simultaneous Multithreading (SMT) (AMD). Here's why you see 16 threads even with 8 physical cores:
+
+Hyper-Threading/SMT Explained:
+
+Physical Cores: These are the actual processing units within your CPU that can execute instructions independently. Your CPU has 8 of these cores.
+Hyper-Threading/SMT: This technology allows a single physical core to handle two threads concurrently. It achieves this by intelligently sharing resources like caches and execution units between two threads, enabling them to make progress even when one thread is waiting for data.
+Benefits of Hyper-Threading/SMT:
+
+Improved Performance: By handling multiple threads per core, Hyper-Threading/SMT can improve performance for tasks that can be broken down into multiple threads. This is because the CPU can keep both threads busy while one waits for data or completes an operation.
+Increased Efficiency: When multiple threads are available for a core to work on, it can utilize its resources more efficiently and reduce idle time.
+Not a Perfect Doubling of Performance:
+
+It's important to understand that Hyper-Threading/SMT doesn't simply double the performance of your CPU. The actual performance gain depends on the workload.
+If a task can't be effectively divided into multiple threads, or if there aren't enough resources available for both threads to run efficiently, the benefit of Hyper-Threading/SMT might be minimal.
+In Summary:
+
+Your CPU's 16 threads are a result of Hyper-Threading/SMT technology, which allows each of its 8 physical cores to handle two threads concurrently. This can improve performance for multi-threaded workloads but doesn't necessarily double the CPU's overall power. The effectiveness depends on the specific task and available resources.
+
+Determining Ideal n threads for Executors
+--------------------------------------------------------------------------------
+1. CPU Core
+2. Type of Work: CPU intensive ? Context Switching  ::Max  1 thread per CPU
+    If IO/Network Call work, where it will wait IDLE,  :: 2 or 3 per CPU core, if IO is slow we can use more threads
+3. Desired Fairness between Thread: if athread is taking a longer time say an hour, it will make the system sluggish if cores are less
+    there we can additional threads for the background process
+    We can Also use Dynac Thread pool, where threads grow till maxPoolSize in need
