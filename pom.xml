@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.sumanshekhar</groupId>
-    <artifactId>JDK8Lessons</artifactId>
+    <artifactId>Java Essence</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <build>
         <plugins>
@@ -24,7 +24,7 @@
             </plugin>
         </plugins>
     </build>
-    <name>JDK8Lessons</name>
+    <name>Java Essence</name>
     <description>This project is all about Java features in depth.</description>
     <properties>
         <maven.compiler.target>21</maven.compiler.target>
@@ -42,7 +42,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>5.3.20</version>
+            <version>6.1.14</version>
         </dependency>
 
         <!-- dependency to use annotation -->
@@ -180,7 +180,7 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
-            <version>1.3.8</version>
+            <version>1.5.13</version>
         </dependency>
 
         <dependency>
