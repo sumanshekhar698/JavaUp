@@ -1,4 +1,4 @@
-<h1>Java Essence</h1>  
+<h1>JavaUp</h1>  
 <h2>Practice coding Java</h2>
 
 **Author : Suman Shekhar**<br>
